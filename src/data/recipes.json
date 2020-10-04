@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Baked Salmon",
+        "ingredients": [
+            {
+                "name": "Salmon",
+                "amount": 1,
+                "measurement": "lb"
+            },
+            {
+                "name": "Pine Nuts",
+                "amount": 1,
+                "measurement": "cup"
+            },
+            {
+                "name": "Butter Lettuce",
+                "amount": 2,
+                "measurement": "cups"
+            },
+            {
+                "name": "Yellow Squash",
+                "amount": 1,
+                "measurement": "med"
+            }
+        ],
+        "steps": [
+            "Pre heat the oven to 350 degrees.",
+            "Spread the loive oil around a glass baking dish.",
+            "Add the yellow squash and place in the oven for 30 mins.",
+            "Add the salmon, garlic, and pine nuts to the dish",
+            "Bake for 15 mins."
+        ]
+    },
+    {
+        "name": "Fish Tacos",
+        "ingredients": [
+            {"name":"Whitefish", "amount": 1, "measurement": "lb"},
+            {"name":"Cheese", "amount": 1, "measurement": "cup"},
+            {"name":"Iceberge", "amount": 2, "measurement": "large"}
+        ],
+        "steps":[
+            "step 1",
+            "step 2",
+            "step 3",
+            "step 4"
+        ]
+    }
+]
